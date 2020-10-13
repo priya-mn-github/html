@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>Welcome to github</h1>
+    <h1>Welcome to github account</h1>
   </body>
   </html>
   
